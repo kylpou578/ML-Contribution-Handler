@@ -21,7 +21,7 @@ The framework ensures that each contributed model update is:
 git clone https://github.com/yourusername/secure-ml-framework.git
 cd secure-ml-framework
 pip install -r requirements.txt
-
+```
 ### How to Run
 To test a model update and simulate contribution validation:
 python run_demo.py
