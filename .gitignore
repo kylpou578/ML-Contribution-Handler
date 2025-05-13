@@ -1,0 +1,20 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+
+# Model files
+*.pkl
+*.h5
+*.joblib
+
+# Keys and signatures
+*.pem
+*.sig
+
+# Logs and temporary files
+*.log
+*.tmp
