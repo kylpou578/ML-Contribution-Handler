@@ -24,4 +24,6 @@ pip install -r requirements.txt
 ```
 ### How to Run
 To test a model update and simulate contribution validation:
+```bash
 python run_demo.py
+```
